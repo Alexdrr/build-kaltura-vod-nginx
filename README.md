@@ -4,7 +4,9 @@
  - [nginx-akamai-token-validate-module](https://github.com/kaltura/nginx-akamai-token-validate-module)
  - [nginx-secure-token-module](https://github.com/kaltura/nginx-secure-token-module) 
  
-В качестве базовой системы используется images debian 10.7, репозиторий используется официальный nginx.
+В качестве базовой системы используется images debian 10.7, репозиторий используется nginx.com.
+[man-build](https://www.debian.org/doc/manuals/maint-guide/build.ru.html)
+
 # Build
 ```bash
 docker build  -t nginx:v1 .
