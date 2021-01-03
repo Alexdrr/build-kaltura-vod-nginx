@@ -4,7 +4,7 @@
  - [nginx-akamai-token-validate-module](https://github.com/kaltura/nginx-akamai-token-validate-module)
  - [nginx-secure-token-module](https://github.com/kaltura/nginx-secure-token-module) 
  
-В качестве базовой системы используется images debian 10.7, репозиторий используется nginx.com. Моменты по сборке  можно уточнить тут
+В качестве базовой системы используется images debian 10.7, репозиторий используется nginx.org. Моменты по сборке  можно уточнить тут
 [man-build](https://www.debian.org/doc/manuals/maint-guide/build.ru.html)
 
 # Build
