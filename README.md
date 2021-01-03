@@ -12,5 +12,9 @@
 docker build  -t nginx:v1 .
 docker run -it  nginx:v1 /bin/sh
 ```
+```bash
+docker build --build-arg NGINX_VERSION=1.18.0 -t nginx:v2 .
+docker run -it  nginx:v2 /bin/sh
+```
 
 Собранные deb пакеты будут доступны в папке /root/ нашего контейнера.
